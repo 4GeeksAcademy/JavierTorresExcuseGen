@@ -25,7 +25,7 @@ let generateExcuse = () => {
     "in my garage",
     "at the store",
     "in space",
-    "in the dark"
+    "in the dark",
   ];
 
   let proIndx = Math.floor(Math.random() * pronoun.length);
@@ -36,3 +36,5 @@ let generateExcuse = () => {
 
   return `${pronoun[proIndx]} ${subject[subIndx]} ${action[actIndx]} ${what[whatIndx]} ${where[whereIndx]}`;
 };
+
+//trying to commit again, something isn't allowing to push. If this comment is still here then it let me push :)
