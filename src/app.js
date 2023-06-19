@@ -37,4 +37,4 @@ let generateExcuse = () => {
   return `${pronoun[proIndx]} ${subject[subIndx]} ${action[actIndx]} ${what[whatIndx]} ${where[whereIndx]}`;
 };
 
-//trying to commit again, something isn't allowing to push. If this comment is still here then it let me push :)
+//trying to commit again. Something isn't allowing to push. If this comment is still here then it let me push :)
